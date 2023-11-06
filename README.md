@@ -1,3 +1,4 @@
+discord - spawnpeeker
 # lottery.aleo
 
 ## Run Guide
